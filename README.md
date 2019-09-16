@@ -10,6 +10,8 @@ Koa 类库的几个核心特点 :
 * context封装
 * try catch 错误处理能力
 
+详细实现[参考文章](https://github.com/rrd-fe/blog/blob/master/nodejs/koa2-implementation.md)
+
 下面我们拆分成四步实现一个简易的Koa框架：
 
 ### Step 1 基础Server运行
