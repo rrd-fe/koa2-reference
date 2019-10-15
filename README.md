@@ -41,5 +41,13 @@ Koa 类库的几个核心特点 :
         拆分Request、Response、Context增加实体类
         Context增加Cookie处理能力
 
-* 运行： npm run start:4
+* 运行： npm run start:6
 
+### Step 6 增加Session中间件
+
+* 目标 
+
+        增加 session中间件，支持ctx.session操作session数据
+        增加 request 增加 query参数
+
+* 运行： npm run start:6
