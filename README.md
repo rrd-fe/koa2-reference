@@ -34,6 +34,12 @@ Koa 类库的几个核心特点 :
 * 目标：支持错误监听（app.on('error')）,支持通过try catch进行一场捕获
 * 运行：npm run start:4
 
-## TODO
+### Step 5 拆分Request、Response、Context增加实体类
 
-* 采用代理实现、完善KoaRequest、KoaResponse、KoaContext功能提供和封装
+* 目标
+
+        拆分Request、Response、Context增加实体类
+        Context增加Cookie处理能力
+
+* 运行： npm run start:4
+

@@ -6,7 +6,8 @@
       "start:1": "ts-node ./start-1/test.ts",
       "start:2": "ts-node ./start-2/test.ts",
       "start:3": "ts-node ./start-3/test.ts",
-      "start:4": "ts-node ./start-4/test.ts"
+      "start:4": "ts-node ./start-4/test.ts",
+      "start:5": "ts-node ./start-5/test.ts"
   },
   "repository": {
     "type": "git",
